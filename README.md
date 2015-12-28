@@ -2,6 +2,12 @@
 
 A GUI for PIP
 
+## Installation
+
+```bash
+pip3 install git+https://github.com/piratus/ipip.git
+```
+
 ## Development installation
 
 ```bash
